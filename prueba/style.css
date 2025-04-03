@@ -1,0 +1,76 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif;
+    min-height: 100vh; /* asegura que el body ocupe toda la altura de la pagina*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://media.istockphoto.com/id/1179884965/es/foto/verde-naturaleza-borroso-bokeh-fondo.jpg?s=612x612&w=0&k=20&c=SYrXBNHsFbcVN6PkuStkKb8BgtEDGQHJ55BlNOr1y5o=');
+}
+
+/* Contenedor principal */
+main {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 80%;
+    margin-bottom: 50px;
+}
+
+/* Estilo del título */
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Estilo del botón */
+button {
+    background-color: #1a5928; /* Verde oscuro */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button:hover {
+  background-color: #0f3518; /* Verde más oscuro al pasar el mouse */
+}
+
+/* Sección de navegación (integrantes) */
+nav {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo de la lista de integrantes */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    margin-top: 0; 
+    color: #333;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+li {
+    padding: 3px 0;
+    color: #555;
+}
