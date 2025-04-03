@@ -1,3 +1,9 @@
-La pagina:
-nuestra pagina permite imprimir los primeros 100 numeros impares.
-Ocupamos lo apredido en clases para cada archivoo. Lo unico que no estoy segura si lo vimos en clase es: min-height
+#La pagina:
+#nuestra pagina permite imprimir los primeros 100 numeros impares.
+#Ocupamos lo apredido en clases para cada archivo.
+
+#Al precionar el boton de el centro aparecera una alerta con los primeros 100 numeros impares.
+
+#En la parte inferior derecha estan los integrantes del grupo.
+
+#Los lenguages utilizados son HTML, CSS y JavaScript
