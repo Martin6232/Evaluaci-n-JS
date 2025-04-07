@@ -6,4 +6,4 @@ function impares() {
         } 
     }
     alert(`Los primero 100 numeros impares son:\n ${array.join(" - ")}`);
-}
+} 
